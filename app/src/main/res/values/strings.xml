@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="descripcion">Descripción</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono">Teléfono</string>
+    <string name="costo">Costo</string>
+    <string name="guardar">Guardar</string>
+    <string name="crear">Crear Publicación</string>
+</resources>
